@@ -1,2 +1,2 @@
-# henryprecurso
-este es el modulo 2 prueba de henry
+Alejandro
+Este proyecto es una prueba de como crear un rp y subirlo a mi github
